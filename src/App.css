@@ -1,0 +1,14 @@
+.wrapper {
+  text-align: center;
+  background-color:blanchedalmond ;
+  background-position:bottom;
+  background: size 1px;
+}
+h4{
+  text-align: left;
+  margin-top: 15%;
+}
+
+.wrapper fieldset {
+  margin: 20px 0;
+}
